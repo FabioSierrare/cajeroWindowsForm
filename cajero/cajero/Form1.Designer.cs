@@ -132,6 +132,7 @@
             this.button6.TabIndex = 4;
             this.button6.Text = "- - -";
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
